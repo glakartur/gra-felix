@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="contact.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       id="perspective863"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 148.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="560"
+     inkscape:cx="400"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1">
+    <path
+       inkscape:transform-center-y="-0.76753872"
+       inkscape:transform-center-x="-0.39761542"
+       d="M 52.301256,82.574878 38.080161,84.851195 24.185373,81.062257 17.625907,68.240613 16.935676,53.855038 27.102797,43.654509 l 13.468202,-5.101836 12.843093,6.51737 9.014037,11.232467 -2.229653,14.228485 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.624544"
+       sodipodi:arg1="0.99622549"
+       sodipodi:r2="22.414091"
+       sodipodi:r1="23.951385"
+       sodipodi:cy="62.469471"
+       sodipodi:cx="39.284286"
+       sodipodi:sides="5"
+       id="path903"
+       style="opacity:1;fill:#d40000;fill-opacity:0.548387;stroke:#666666;stroke-width:0.0529167;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.0529167, 0.105833;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+    <rect
+       y="56.518097"
+       x="80.839294"
+       height="57.085754"
+       width="47.026752"
+       id="rect905"
+       style="opacity:1;fill:#008000;fill-opacity:0.548387;stroke:#666666;stroke-width:0.0529167;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.0529167, 0.10583300000000000;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:transform-center-y="-1.1271704"
+       inkscape:transform-center-x="-0.35023483"
+       d="m 127.86605,113.60384 14.5921,-15.283239 19.59506,-7.908272 19.04443,9.155135 13.57642,16.192216 -2.822,20.94142 -11.20437,17.91561 -20.78852,3.78738 -20.5011,-5.11976 -10.02601,-18.6007 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-2.1668569"
+       sodipodi:arg1="-2.7951754"
+       sodipodi:r2="32.885818"
+       sodipodi:r1="35.141331"
+       sodipodi:cy="125.53538"
+       sodipodi:cx="160.91982"
+       sodipodi:sides="5"
+       id="path907"
+       style="opacity:1;fill:#008000;fill-opacity:0.548387;stroke:#666666;stroke-width:0.0529167;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.0529167, 0.105833;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+    <ellipse
+       onclick="window.location='rysunek1.svg'"
+       ry="16.413496"
+       rx="30.215513"
+       cy="126.72399"
+       cx="59.329041"
+       id="path909"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.548387;stroke:#666666;stroke-width:0.0529167;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.0529167, 0.10583300000000000;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
