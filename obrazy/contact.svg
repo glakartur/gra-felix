@@ -101,7 +101,7 @@
        style="opacity:1;fill:#008000;fill-opacity:0.548387;stroke:#666666;stroke-width:0.0529167;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.0529167, 0.105833;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:type="star" />
     <ellipse
-       onclick="window.location='obrazy/rysunek1.svg'"
+       onclick="window.location='rysunek1.svg'"
        ry="16.413496"
        rx="30.215513"
        cy="126.72399"
