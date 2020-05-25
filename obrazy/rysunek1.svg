@@ -79,7 +79,7 @@
        cy="100.14481"
        rx="24.576572"
        ry="33.184807"
-       onclick="window.location='obrazy/contact.svg'" />
+       onclick="window.location='contact.svg'" />
     <g
        sodipodi:type="inkscape:box3d"
        id="g865"
