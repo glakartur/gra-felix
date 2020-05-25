@@ -2,4 +2,4 @@
 
 gra 
 
-tu ma być link do [mieszkanie_feliksa]
+tu ma być link do [[mieszkanie_feliksa]]
