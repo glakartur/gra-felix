@@ -8,4 +8,4 @@ tu ma być link do [[mieszkanie_feliksa]]
 
 [[wiki:Home]]
 
-linki do [wiki](wiki:Home)
+linki do [wiki](Home)
